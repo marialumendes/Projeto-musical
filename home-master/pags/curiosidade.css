@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+
+body{
+    height: 100vh;
+    background-image:url("fundoCuriosidade.jpeg");
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: "Nova square";
+    /* overflow: hidden */
+}
+
+.page{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 80px 0px 60px;
+    padding: 20px;
+    justify-content: center;
+}
+
+.player-dois{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: flex-start;
+
+    
+}
+
+
+.player-um{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: flex-start;
+}
+        
+span{
+   text-align: center;
+    color: azure;
+    font-size: 17px;
+    margin: 10px;
+    display: flex;
+    font-family: "Nova square" ;
+    
+}
+
+.music{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+h1 {
+    text-align: center;
+    color: azure;
+    font-family: "Nova Square";
+
+}
+
+p{
+    text-align: center;
+    color: azure;
+    font-size: 17px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: "Nova square" ;
+
+}
+
+div{
+    text-align:center;
+    margin: 0px 10px 0px 10px;
+
+}
+
+.meio{
+    display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        margin: 60px 50px 0px 50px;
+}
+
+.player-tristeza{
+    margin: 38px 0px 0px 10px;
+}
+
+.player-lembrança{
+    margin: 0px 0px 0px 0px;
+}

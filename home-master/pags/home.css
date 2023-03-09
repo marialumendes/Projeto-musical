@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    background-image: url("planosol.png");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    overflow: hidden;
+    
+
+}
+
+.icon{
+    display: flex;
+}
+
+
+   .azul{
+
+    margin-top: 5px;
+    margin-left: 5px;
+   } 
+
+   .vermelho{
+    margin-left: 295px;
+   }
+
+   .rosa{
+    margin-top: 150px
+   }
+
+   .roxo{
+    margin-top: 250px;
+   }

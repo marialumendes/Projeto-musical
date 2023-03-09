@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+
+body{
+    height: 100vh;
+    background-image:url("imag/futurofunfo.png");
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: "Nova square";
+}
+
+h1 {
+    text-align: center;
+    color: azure;
+    font-family: "Nova Square";
+    font-size: 40px;
+    
+}
+
+p{
+    text-align: center;
+    color: azure;
+    font-family: "Nova Square";
+    font-size: 17px;
+    margin: 10px;
+    font-size: 25px;
+
+}
+
+div{
+    text-align: center;
+}

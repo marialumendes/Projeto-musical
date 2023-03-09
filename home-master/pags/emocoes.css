@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+
+body{
+    height: 100vh;
+    background-image:url("planetaemo.png");
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: "Nova square";
+    
+}
+.page{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 80px 0px 60px;
+    padding: 20px;
+}
+
+.player-dois{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: flex-start;
+
+    
+}
+
+.raiva{
+    margin-left: 10px;
+}
+
+.player{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        
+}
+.title{
+    display: flex;
+    align-items: center;
+            
+}
+.music{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+h1 {
+    text-align: center;
+    color: azure;
+    font-family: "Nova Square";
+
+}
+
+p{
+    text-align: center;
+    color: azure;
+    font-size: 17px;
+    margin: 10px;
+    display: flex;
+    font-family: "Nova square" ;
+
+}
+
+div{
+    text-align:center;
+}

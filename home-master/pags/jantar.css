@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+body{
+    height: 100vh;
+    background-image:url("planetajantar.png");
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: "Nova square";
+}
+
+.conteiner{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: azure;
+    font-family: "Nova Square";
+}
+
+.elemento{
+    width: 350px;
+    height:250px ;
+    margin: 0px 80px 0px 60px;
+    color: azure;
+    font-family: "Nova Square";
+}
+
+
+
+
+    h1{
+        text-align: center;
+        color: azure;
+        font-family: "Nova Square";
+    }
+
+    

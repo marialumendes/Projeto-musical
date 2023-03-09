@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+
+body{
+   
+    height: 100vh;
+    background-image:url("planetasapo.png");
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: "Nova square";
+}
+
+.tudo{
+    display: flex;
+    justify-content: space-evenly;
+   margin: 0px 80px 0px 60px;
+   padding: 20px;
+}
+
+.parte-dois{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+h1 {
+    text-align: center;
+    color: azure;
+    font-family: "Nova Square";
+    font-size: 40px;
+    
+    
+}
+
+p{
+    text-align: center;
+    color: azure;
+    font-family: "Nova Square";
+    font-size: 17px;
+    margin: 10px;
+
+}
+
+div{
+        text-align: center;
+    }
+
+   
